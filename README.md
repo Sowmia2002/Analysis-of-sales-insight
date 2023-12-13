@@ -5,4 +5,4 @@ Case study is based on a AtLIQ computer hardware business which is facing challe
 2.Revenue breakdown by years and months
 3.Show me top 5 customers by revenue and sales quantity
 4.Top 5 products by revenue number
-![dashbord by problem statemrnt](dashboards/Profit Analysis.jpg)
+![dashbord by problem statemrnt](dashboards/ProfitAnalysis.jpg)
