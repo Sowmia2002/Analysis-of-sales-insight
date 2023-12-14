@@ -5,6 +5,8 @@ Case study is based on a AtLIQ computer hardware business which is facing challe
 2.Revenue breakdown by years and months
 3.Show me top 5 customers by revenue and sales quantity
 4.Top 5 products by revenue number
+### Refer
+[click here]https://github.com/Sowmia2002/Analysis-of-sales
 ## Description
 1.Deployed: Implemented a data analysis solution, slashing data processing time by 25% and 
 boosting sales accuracy by 15%, empowering data-driven decisions for industry dominance.
